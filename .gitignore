@@ -163,3 +163,5 @@ cython_debug/
 .github/*
 # Ignore any file containing the tmp substring
 **tmp**
+
+data/*
